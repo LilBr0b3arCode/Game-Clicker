@@ -1,0 +1,10 @@
+<HTML>
+     <head>
+          <title>Project HTML</title>
+     </head>
+
+     <body>
+	<p>Welcome to Project A.</p>
+	<img src="images/ultraryzen.png" height="256px" width="256px">
+     </body>
+</HTML>
